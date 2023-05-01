@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 Hello, I am Pranjal, I'm currently working on Data Structures and exploring<br>the Cloud Technology.<br>
 
 
@@ -12,4 +12,4 @@ Hello, I am Pranjal, I'm currently working on Data Structures and exploring<br>t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pn3425&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pn3425&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
