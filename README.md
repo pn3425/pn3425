@@ -17,16 +17,16 @@ Hello, I am Pranjal, I'm currently working on Data Structures and exploring<br>t
 
  -->
 
-## 💫 About Me:
+## 💫 ABOUT ME:
 Hello, I am Pranjal, I'm currently working on Data Structures and exploring the Cloud Technology
 
 
-## 🌐 Socials:
+## 🌐 SOCIALS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranjal-nikhade-3510b723a) 
 
-## 💻 Tech Stack:
+## 💻 TECH STACKS:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-## 📊 GitHub Stats:
+## 📊 GitHub Stat:
 ![](https://github-readme-stats.vercel.app/api?username=pn3425&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pn3425&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pn3425&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
